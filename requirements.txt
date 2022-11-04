@@ -148,7 +148,7 @@ system-service==0.3
 systemd-python==234
 text-unidecode==1.2
 TimeConvert==1.5.1
-Twisted==20.3.0
+Twisted==22.10.0
 txaio==20.1.1
 tzlocal==2.0.0
 ubuntu-drivers-common==0.0.0
